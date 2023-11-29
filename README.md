@@ -24,7 +24,7 @@ The A* (A-star) algorithm is a popular pathfinding algorithm that combines the b
 - A* explores the nodes with the lowest f-score first, prioritizing the most promising paths.
 - By using a heuristic function (such as Manhattan distance), A* is able to find the shortest path efficiently.
 
-##Requirement 
--pip install pygame
--pip install sys
--pip install heapq
+## Requirement 
+ -pip install pygame
+ -pip install sys
+ -pip install heapq
